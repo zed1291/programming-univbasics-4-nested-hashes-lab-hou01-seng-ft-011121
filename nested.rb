@@ -36,9 +36,8 @@ def alan_kay_is_known_for
         :known_for => "Unix",
         :languages => ["C"]
       }
-			:alan_kay[:known_for]
     }
-
+		:alan_kay[:known_for]
 end
 
 def dennis_ritchies_language
@@ -56,8 +55,8 @@ def dennis_ritchies_language
         :known_for => "Unix",
         :languages => ["C"]
       }
-			:dennis_ritchie[languages][0]
     }
+		:dennis_ritchie[languages][0]
 
 end
 
